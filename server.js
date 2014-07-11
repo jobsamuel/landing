@@ -5,7 +5,7 @@ var logfmt 	= require("logfmt");
 var express = require('express');
 var server 	= express();
 
-app.use(logfmt.requestLogger());
+server.use(logfmt.requestLogger());
 
 // logfmt is key value logging convention adopted by Heroku.
 // The library is for both converting lines in logfmt format to objects
