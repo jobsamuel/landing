@@ -1,0 +1,27 @@
+{
+  "name": "landing",
+  "version": "0.0.0",
+  "description": "a node app template",
+  "main": "server.js",
+  "scripts": {
+    "test": ".",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jobsamuel/landing.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Jobsamuel Núñez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jobsamuel/landing/issues"
+  },
+  "homepage": "https://github.com/jobsamuel/landing",
+  "dependencies": {
+    "express": "^4.5.1",
+    "logfmt": "^1.1.2"
+  }
+}
