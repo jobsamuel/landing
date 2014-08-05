@@ -17,7 +17,7 @@ Basically, you could use this template in two ways: locally or deployed in [Hero
 **deployed in heroku**
 
  - Clone `git clone https://github.com/jobsamuel/landing.git`
- - Follow [this] (https://devcenter.heroku.com/articles/git) simple steps. 
+ - Follow [these] (https://devcenter.heroku.com/articles/git) simple steps. 
 
 license
 =======
