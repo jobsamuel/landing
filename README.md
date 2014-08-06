@@ -10,13 +10,13 @@ Basically, you could use this template in two ways: locally or deployed in [Hero
 
 **locally** 
 
- - Clone `git clone https://github.com/jobsamuel/landing.git`
- - Install dependencies `npm install`
- - Run `node server.js`
+ - Clone `$ git clone https://github.com/jobsamuel/landing.git`
+ - Install dependencies `$ npm install`
+ - Run `$ node server.js`
 
 **deployed in heroku**
 
- - Clone `git clone https://github.com/jobsamuel/landing.git`
+ - Clone `$ git clone https://github.com/jobsamuel/landing.git`
  - Follow [these] (https://devcenter.heroku.com/articles/git) simple steps. 
 
 license
